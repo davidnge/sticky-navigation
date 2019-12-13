@@ -1,0 +1,14 @@
+html {
+	scroll-behavior: smooth
+}
+
+p {
+	margin-bottom: 25px;
+}
+
+.sticky	{
+	position: sticky;
+  	top: 30px;
+}
+
+/** **
